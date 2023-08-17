@@ -1,0 +1,30 @@
+.fom {
+    height: auto;
+    width: 500px;
+    margin: auto;
+    background: rgb(131, 58, 180);
+    background: linear-gradient(227deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+
+}
+
+.fom div {
+    margin: 30px;
+}
+
+label {
+    font-size: 20px;
+    /* display: block; */
+    margin-left: 50px;
+}
+
+.BB Button {
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+
+}
+
+.in {
+    margin-left: 50px;
+
+}
